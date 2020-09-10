@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vsodo\\OneDrive\\Робочий стіл\\course\\MainAcademy Lab\\MainAcademyLabs\\git\\git\\git.csproj": {}
+    "C:\\Users\\vsodo\\OneDrive\\Робочий стіл\\course\\MainAcademy Lab\\MainAcademyLabs\\labGit\\labGit\\labGit.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vsodo\\OneDrive\\Робочий стіл\\course\\MainAcademy Lab\\MainAcademyLabs\\git\\git\\git.csproj": {
+    "C:\\Users\\vsodo\\OneDrive\\Робочий стіл\\course\\MainAcademy Lab\\MainAcademyLabs\\labGit\\labGit\\labGit.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vsodo\\OneDrive\\Робочий стіл\\course\\MainAcademy Lab\\MainAcademyLabs\\git\\git\\git.csproj",
-        "projectName": "git",
-        "projectPath": "C:\\Users\\vsodo\\OneDrive\\Робочий стіл\\course\\MainAcademy Lab\\MainAcademyLabs\\git\\git\\git.csproj",
+        "projectUniqueName": "C:\\Users\\vsodo\\OneDrive\\Робочий стіл\\course\\MainAcademy Lab\\MainAcademyLabs\\labGit\\labGit\\labGit.csproj",
+        "projectName": "labGit",
+        "projectPath": "C:\\Users\\vsodo\\OneDrive\\Робочий стіл\\course\\MainAcademy Lab\\MainAcademyLabs\\labGit\\labGit\\labGit.csproj",
         "packagesPath": "C:\\Users\\vsodo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vsodo\\OneDrive\\Робочий стіл\\course\\MainAcademy Lab\\MainAcademyLabs\\git\\git\\obj\\",
+        "outputPath": "C:\\Users\\vsodo\\OneDrive\\Робочий стіл\\course\\MainAcademy Lab\\MainAcademyLabs\\labGit\\labGit\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vsodo\\AppData\\Roaming\\NuGet\\NuGet.Config",
